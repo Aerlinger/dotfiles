@@ -43,6 +43,14 @@ brew install rename
 brew install rhino
 brew install tree
 brew install webkit2png
+brew install macvim
+brew install rvm
+brew install redis
+brew install sqlite
+brew install postresql
+brew install cmake
+brew install cloc
+brew install libxml2
 
 # Remove outdated versions from the cellar
 brew cleanup

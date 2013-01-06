@@ -1,4 +1,4 @@
-# Mathias’s dotfiles
+# Mathias’s dotfiles as modified by Aerlinger
 
 ## Installation
 
